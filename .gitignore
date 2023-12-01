@@ -1,1 +1,19 @@
+# IntelliJ IDEA specific
 .idea
+*.iws
+*.iml
+*.ipr
+out/
+
+# Gradle and compiled
+.gradle
+build/
+bin/
+
+# Log files
+*.log
+
+# Other
+.DS_Store
+*.swp
+*~
